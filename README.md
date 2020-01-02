@@ -1,25 +1,21 @@
 # CS-1400
 This repository contains all of the assignments completed during the Fundamentals of Computer Programming course which focused primarily on using Java.
 
-Assignment 1 - 
+Assignment 1 - First "Hello World".
 
-Assignment 2 - 
+Assignment 2 - Retirement calculator.
 
-Assignment 3 - 
+Assignment 3 - Higher/lower number guessing game.
 
-Assignment 4 - 
+Assignment 4 - Pig Latin Translator.
 
-Assignment 5 - 
+Assignment 5 - Rock, Paper, Scissors game using command line.
 
-Assignment 6 -
+Assignment 7 - Yahtzee game using command line.
 
-Assignment 7 - 
+Assignment 8 - Connect 4 game using command line.
 
-Assignment 8 - 
-
-Assignment 9 - 
-
-Assignment 10 - 
+Assignment 10 - Rock, Paper, Scissors game using a GUI interface.
 
 Assignment 11 - Basic bank emulating program where the user can get account information, make deposits, and withdraw funds.
 
